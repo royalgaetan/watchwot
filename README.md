@@ -4,7 +4,7 @@
 ⌚💎 Boutique de montre de luxe 
 
 
-## Features
+## Fonctionnalités
  
 - Galerie de produits ⌚ 
 - Descriptions détaillées des produits 📝
@@ -14,17 +14,17 @@
 - Contenu personnalisé 🎯
 - Paiements intégrés sécurisés et faciles 💳
 
-## Screenshots
+## Captures d'écran
 
 ![App Screenshot](https://us-ms.gr-cdn.com/getresponse-CwX7D/photos/7a6c0569-daff-4c06-ae3c-f2e748edd7f6.png)
 
 
-## Authors
+## Auteurs
 
 - [@royalgaetan](https://twitter.com/RoyalGaetan)
 
 
-## License
+## Licence
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
