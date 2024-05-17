@@ -2,7 +2,7 @@
 # Watch Wot
 
 ⌚💎 Boutique de montre de luxe 
-
+<br/>
 
 ## Fonctionnalités
  
@@ -14,9 +14,10 @@
 - Contenu personnalisé 🎯
 - Paiements intégrés sécurisés et faciles 💳
 
+
 ## Captures d'écran
 
-![App Screenshot](https://us-ms.gr-cdn.com/getresponse-CwX7D/photos/7a6c0569-daff-4c06-ae3c-f2e748edd7f6.png)
+<img src="http://bigagencytravel.com/wp-content/uploads/2024/05/Mockup-Multi-Screen-Watch-Wot.png" height="500" />
 
 
 ## Auteurs
